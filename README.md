@@ -26,6 +26,7 @@
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python3](./solutions/509.%20Fibonacci%20Number.py)|32 ms|
 |561|[ Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python3](./solutions/561.%20Array%20Partition%20I.py)|256 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python3](./solutions/566.%20Reshape%20the%20Matrix.py)|92 ms|
+|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python3](./solutions/567.%20Permutation%20in%20String.py)|125 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Python3](./solutions/704.%20Binary%20Search.py)|240 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python3](./solutions/721.%20Accounts%20Merge.py)|188 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python3](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.py)|84 ms|

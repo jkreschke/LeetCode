@@ -3,7 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|60 ms|
-|3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python3](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|52 ms|
+|3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python3](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|64 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python3](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|36 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python3](./solutions/20.%20Valid%20Parentheses.py)|32 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python3](./solutions/35.%20Search%20Insert%20Position.py)|48 ms|

@@ -43,3 +43,4 @@
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python3](./solutions/876.%20Middle%20of%20the%20Linked%20List.py)|28 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python3](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.py)|248 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python3](./solutions/1137.%20N-th%20Tribonacci%20Number.py)|24 ms|
+|1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Python3](./solutions/1306.%20Jump%20Game%20III.py)|300 ms|
